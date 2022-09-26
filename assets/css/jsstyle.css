@@ -197,7 +197,7 @@ ul li:hover{
     }
     .book-main {
         background-color: lightgrey;
-        width: 107%;
+        width: 107.5%;
         margin-left: -12px;
         border-radius: 10px 10px 0px 0px;
     }
@@ -251,7 +251,7 @@ ul li:hover{
         background-color: yellow;
         border-radius: 0px 0px 10px 10px;
         position: relative;
-        width: 107%;
+        width: 107.5%;
         margin-left: -12px;
         margin-bottom: -8px;
     }
